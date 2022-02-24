@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @aalr0006
+- 👀 I’m interested in hydrology and geomorphology
+- 🌱 I’m currently learning to process big spatial data 
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me aalr0006@student.slu.se
+-
